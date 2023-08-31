@@ -43,16 +43,16 @@ npm run serve
 ```
 The application will be available at http://localhost:8080 in your web browser.
 
-##Usage
+## Usage
 
 Click and drag on the sphere to rotate it.
 Use your mouse scroll wheel or touchpad gestures to zoom in and out.
 Right-click and drag to pan the view.
 
-##Customization
+## Customization
 You can customize the sphere's appearance and behavior by editing the src/components/Sphere.vue file. Modify the code to change the sphere's texture, add animations, or adjust its size and position.
 
-##Deployment
+## Deployment
 To deploy this application to a live website, follow these general steps:
 
 1.Build the Production Version
