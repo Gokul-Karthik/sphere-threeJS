@@ -7,7 +7,6 @@ This is an interactive 3D sphere application built using Three.js and Vue.js. It
 ## Table of Contents
 
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Customization](#customization)
@@ -19,12 +18,6 @@ This is an interactive 3D sphere application built using Three.js and Vue.js. It
 - Interactive Rotation
 - Zoom and Pan Controls
 - Customizable Sphere Properties
-
-## Demo
-
-Check out the live demo of the interactive sphere [here](https://your-demo-url.com).
-
-![Interactive Sphere Demo](demo.gif)
 
 ## Installation
 
@@ -40,10 +33,9 @@ To run this project locally, follow these steps:
 
 Ensure you have Node.js and npm installed. If not, download and install them from nodejs.org.
 
-bash
-Copy code
+```
 npm install
-
+```
 3.Start the Development Server
 
 ```bash
