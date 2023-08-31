@@ -1,6 +1,7 @@
 # Interactive Sphere with Three.js and Vue.js
 
-![Interactive Sphere Preview](demo.gif)
+<img width="856" alt="sphere" src="https://github.com/gokulkarthiksrihari/sphere-threeJS/assets/109889081/ed986ed0-d9d3-4ae7-ab40-ca0404cc4a5b">
+
 
 This is an interactive 3D sphere application built using Three.js and Vue.js. It allows you to explore and interact with a rotating sphere in a web browser.
 
